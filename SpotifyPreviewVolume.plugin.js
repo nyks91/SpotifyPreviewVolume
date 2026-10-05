@@ -1,6 +1,6 @@
 /**
  * @name SpotifyPreviewVolume
- * @version 0.4.2
+ * @version 0.4.3
  * @description Play available Spotify track previews with adjustable volume.
  * @author naykis
  * @source https://github.com/nyks91/SpotifyPreviewVolume
@@ -9,7 +9,7 @@
  */
 
 const NAME = "SpotifyPreviewVolume";
-const VERSION = "0.4.2";
+const VERSION = "0.4.3";
 const CHANGELOG = [
     {version:"0.4.3",title:"v0.4.3 - Player and volume settings",type:"added",items:["Added a minimal player layout.","Added an option to start every preview at a fixed volume.","The player switch can now be hidden in settings."]},
     {version:"0.4.2",title:"v0.4.2 - Volume control",type:"changed",items:["The volume of Spotify track previews can now be adjusted."]}
